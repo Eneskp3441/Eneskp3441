@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/eneskp3441/static/css/main.cb3c4aca.css",
+    "main.js": "/eneskp3441/static/js/main.d2ff2019.js",
+    "static/js/787.27151014.chunk.js": "/eneskp3441/static/js/787.27151014.chunk.js",
+    "static/media/FREELANCE_PROJECTS.png": "/eneskp3441/static/media/FREELANCE_PROJECTS.c08aeb8b61f4c47dfe6c.png",
+    "static/media/PUBLISHED_GAMES.png": "/eneskp3441/static/media/PUBLISHED_GAMES.102a12f3b7a20454883b.png",
+    "static/media/PROJECTS.png": "/eneskp3441/static/media/PROJECTS.81eb18331a7ed78a39c9.png",
+    "static/media/ABOUT.png": "/eneskp3441/static/media/ABOUT.8929f7970371eff15e79.png",
+    "static/media/logo.svg": "/eneskp3441/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/eneskp3441/index.html",
+    "main.cb3c4aca.css.map": "/eneskp3441/static/css/main.cb3c4aca.css.map",
+    "main.d2ff2019.js.map": "/eneskp3441/static/js/main.d2ff2019.js.map",
+    "787.27151014.chunk.js.map": "/eneskp3441/static/js/787.27151014.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb3c4aca.css",
+    "static/js/main.d2ff2019.js"
+  ]
+}
